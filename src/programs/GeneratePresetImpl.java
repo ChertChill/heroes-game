@@ -37,7 +37,7 @@ import java.util.*;
 
 public class GeneratePresetImpl implements GeneratePreset {
 
-    private static final int MAX_UNIT_COUNT = 11;   // Максимальное количество юнитов одного типа
+    private static final int MAX_UNIT_COUNT = 11;  // Максимальное количество юнитов одного типа
     private static final int WIDTH = 3;             // Ширина игрового поля
     private static final int HEIGHT = 21;           // Высота игрового поля
 
